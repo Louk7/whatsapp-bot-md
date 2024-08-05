@@ -12,7 +12,7 @@ services:
       - key: PREFIX
         sync: false
       - key: STICKER_PACKNAME
-        value: ',LyFE'
+        value: ',Loukson'
       - key: RMBG_KEY
         value: 'null'
       - key: WARN_LIMIT
